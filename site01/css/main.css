@@ -1,11 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;800&display=swap');
 
+body {
+  font-family: 'Raleway', sans-serif;
+}
 
-/* navigation bar styles start here */
-header {
-    background: var(--background);
-    text-align: center;
+/* Index page CSS starts here */
+#homepage {
+    background: rgb(240, 199, 187);
+    color: black;
+}
+#hill {
     position: fixed;
-    z-index: 999;
+    bottom: 0px;
     width: 100%;
+}
+
+/* About page CSS starts here */
+#aboutpage {
+    background: rgb(66, 62, 60);
+    color: white;
+}
+
+#socrates {
+    position: fixed;
+    bottom: 0px;
+}
+
+/* Contact page CSS starts here */
+
+#top-hand {
+    position: fixed;
+    top: 0px;
+    right: 50%;
+}
+
+#bottom-hand {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
 }
