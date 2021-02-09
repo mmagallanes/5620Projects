@@ -4,52 +4,52 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-h1 {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+a {
+    font-size: 1.5em;
 }
+
+#main-content {
+    position: absolute; 
+    top: 40%; 
+    width: 100%; 
+    transform: translateY(-50%);
+}
+
 /* Index page CSS starts here */
-#homepage h1 {
-    color: black;
-    font-weight: 800;
-}
-
-#homepage img.animated-gif {
-    width: 100%;
-    height: auto;
-}
-
-#hill {
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
-    z-index: 999;
-}
-
-/* About page CSS starts here */
-#aboutpage {
+#homepage {
     background: rgb(66, 62, 60);
     color: white;
 }
 
-#aboutpage h1{
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+#homepage a {
+    color: white;
+    font-weight: 300;
 }
 
+#homepage a:hover {
+    color: orangered;
+}
 #socrates {
+    position: fixed;
+    bottom: 0px;
+    z-index: -10;
+}
+
+/* About page CSS starts here */
+#aboutpage {
+    color: black;
+    background: rgb(179, 202, 141);
+}
+
+#aboutpage a {
+    color: black;
+}
+
+#aboutpage a:hover {
+    color: orangered;
+}
+
+#dancers {
     position: fixed;
     bottom: 0px;
     z-index: -10;
@@ -58,6 +58,14 @@ h1 {
 /* Contact page CSS starts here */
 #contactpage {
     background: rgb(248, 223, 168);
+}
+
+#contactpage a {
+    color: black;
+}
+
+#contactpage a:hover {
+    color: orangered;
 }
 
 #top-hand {
