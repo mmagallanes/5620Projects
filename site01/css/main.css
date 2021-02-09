@@ -74,7 +74,7 @@ a {
 }
 
 #bottom-hand {
-    position: fixed;
+    position: absolute;
+    right: 0px;
     bottom: 0px;
-    left: 60%;
 }
