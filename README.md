@@ -6,3 +6,6 @@ Task: Create a three page website (Home, About, Contact). Each page must include
 
 ## Site 02: Let's Build a Structured Website
 Task: Create a three page website using the following templates, one page for each template. Must be able to navigate between all three pages. 
+
+## Site 03: Tribute Page
+Task: Create a tribute page for a favorite band, game, sports team, etc. with an embedded YouTube video. 
