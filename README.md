@@ -1,10 +1,11 @@
-## 5620 Projects: Static websites completed during CIS 5620 in Spring 2021
+## 5620 Projects
+5620 Projects contains the static websites I've completed during CIS 5620 in Spring 2021.
 
 ### Site 01: My First Website
 _**Task**: Create a three page website (Home, About, Contact). Each page must include a header (h1), image (img), link (a) & must be able to navigate between all three pages._ <br>
 Completed project: <br>
 
-
+<br>
 ### Site 02: Let's Build a Structured Website
 _**Task**: Create a three page website using the following templates, one page for each template. Must be able to navigate between all three pages._ <br>
 | Template 1  | Template 2  | Template 3  |
