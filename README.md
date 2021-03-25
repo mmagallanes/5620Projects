@@ -1,11 +1,11 @@
 ## 5620 Projects
 _5620 Projects contains the static websites I've completed during CIS 5620 in Spring 2021._ <br>
-- My First Website
-- Let's Build a Structured Website
-- Tribute Page
-- Tribute Page: Round 2
-- Make this Splash page
-- Create a Survey Form
+- [My First Website](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
+- [Let's Build a Structured Website](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
+- [Tribute Page](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
+- [Tribute Page: Round 2](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
+- [Make this Splash page](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
+- [Create a Survey Form](https://github.com/mmagallanes/5620Projects/blob/main/README.md#site-01-my-first-website)
 
 ## Site 01: My First Website
 _**Task**: Create a three page website (Home, About, Contact). Each page must include a header (h1), image (img), link (a) & must be able to navigate between all three pages._ <br>
