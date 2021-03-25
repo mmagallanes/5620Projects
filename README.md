@@ -28,9 +28,9 @@ _**Completed project:**_
 | ![layout1](https://github.com/mmagallanes/5620Projects/blob/main/images/structure1.png) | ![layout2](https://github.com/mmagallanes/5620Projects/blob/main/images/structure2.png) | ![layout3](https://github.com/mmagallanes/5620Projects/blob/main/images/structure3.png) |
 <br>
 
-## Site 03: Tribute Page
+## [Site 03: Tribute Page](https://mmagallanes.github.io/tribute-page/)
 _Task: Create a tribute page for a favorite band, game, sports team, etc. with an embedded YouTube video. <br>_
-|Completed project: | 
+| [Completed project:](https://mmagallanes.github.io/tribute-page/) | 
 | :----: |
 | ![tribute_page](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute_page.png) |
 <br>
