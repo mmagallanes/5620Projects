@@ -1,12 +1,18 @@
 ## 5620 Projects
-5620 Projects contains the static websites I've completed during CIS 5620 in Spring 2021.
+_5620 Projects contains the static websites I've completed during CIS 5620 in Spring 2021._ <br>
+- My First Website
+- Let's Build a Structured Website
+- Tribute Page
+- Tribute Page: Round 2
+- Make this Splash page
+- Create a Survey Form
 
-### Site 01: My First Website
+## Site 01: My First Website
 _**Task**: Create a three page website (Home, About, Contact). Each page must include a header (h1), image (img), link (a) & must be able to navigate between all three pages._ <br>
 Completed project: <br>
 
 
-### Site 02: Let's Build a Structured Website
+## Site 02: Let's Build a Structured Website
 _**Task**: Create a three page website using the following templates, one page for each template. Must be able to navigate between all three pages._ <br>
 | Template 1  | Template 2  | Template 3  |
 |   :----:    |   :----:    |   :----:    |
@@ -14,24 +20,24 @@ _**Task**: Create a three page website using the following templates, one page f
 
 Completed project: 
 
-### Site 03: Tribute Page
-Task: Create a tribute page for a favorite band, game, sports team, etc. with an embedded YouTube video. <br>
+## Site 03: Tribute Page
+_Task: Create a tribute page for a favorite band, game, sports team, etc. with an embedded YouTube video. <br>_
+Completed project: <br>
+
+## Site 04: Tribute Page - Round 2
+_Task: Convert previous tribute page to use CSS and Divs <br>_
 Completed project:
 
-### Site 04: Tribute Page - Round 2
-Task: Convert previous tribute page to use CSS and Divs <br>
+## Site 05: Make this Splash page
+_Task: Recreate this Splash page <br>_
 Completed project:
 
-### Site 05: Make this Splash page
-Task: Recreate this Splash page <br>
-Completed project:
-
-### Site 06: Create a Survey form
-Task: Build a form using HTML. The form should be a survey for a qualitative study on students' feelings about virtual learning. The survey should have:
+## Site 06: Create a Survey form
+_Task: Build a form using HTML. The form should be a survey for a qualitative study on students' feelings about virtual learning. The survey should have:_
 - 10 questions
 - A big title at the top
 - Add an image for visual
 - Make sure to use CSS to add some color to the survey
 <br>
-Completed project: 
 
+Completed project:
