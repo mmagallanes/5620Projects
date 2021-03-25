@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;900&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: gold;
+    background: url(/images/pencils.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.survey-title {
+    margin-top: 2%;
+    padding-top: 2%;
+}
+
+.form {
+    margin: 2%;
+    padding: 3% 3%;
+    opacity: 0.9;
+    background-color: white;
+}
+.mb-3 {
+    padding-top: 2%;
+}
+
+.last-question {
+    padding-bottom: 5%;
+}

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Raleway:wght@200;300;400&display=swap');
+
+:root {
+    --navbar: rgb(36, 36, 36);;
+    --bkgrnd_black: black;
+    --jumbotron_black: rgba(88, 88, 88, 0.745);
+    --link_white: rgb(255, 255, 255, 0.8);
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 5rem;
+}
+
+h4 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2rem;
+}
+
+body {
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--bkgrnd_black) !important;
+    color: white;
+}
+
+a {
+    color: var(--link_white);
+}
+
+a:hover {
+    font-weight: 400;
+    text-decoration: underline !important;
+    color: rgb(28, 142, 255) !important;
+}
+
+#content-title {
+    color: white;
+    font-family: 'Permanent Marker';
+    font-size: 3rem;
+}
+
+.section {
+    padding: 2em 0;
+    margin: 2em 0;
+}
+
+.row {
+    margin: 5em 0;
+}
+
+.navbar {
+    background-color: var(--navbar) !important;
+}
+
+.nav-pills-custom .nav-link.active {
+    background-color: rgb(248, 218, 22);
+    color: black;
+}
+
+.nav-item {
+    padding-left: 1em;
+}
+
+.jumbotron {
+    background-color: var(--jumbotron_black);
+    font-family: 'Permanent Marker', cursive;
+    color: red !important;
+    background-image: url(/images/daftpunk.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tab-content {
+    margin-top: 3em;
+}
+
+.footer {
+    margin-top: 2rem;
+    position: absolute;
+    height: 60px;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: var(--navbar);
+}
+
+.footer a {
+    padding-left: 2em;
+}
