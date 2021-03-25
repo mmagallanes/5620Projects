@@ -35,9 +35,9 @@ _Task: Create a tribute page for a favorite band, game, sports team, etc. with a
 | ![tribute_page](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute_page.png) |
 <br>
 
-## Site 04: Tribute Page - Round 2
+## [Site 04: Tribute Page - Round 2](https://mmagallanes.github.io/tribute-page-v2/)
 _Task: Convert previous tribute page to use CSS and Divs <br>_
-| |Completed project: | |
+| | [Completed project:](https://mmagallanes.github.io/tribute-page-v2/) | |
 |   :----:    |   :----:    |   :----:    |
 | ![tribute2_1](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute2_1.png) | ![tribute2_2](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute2_2.png) | ![tribute2_3](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute2_3.png) |
 | ![tribute2_4](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute2_4.png) | ![tribute2_5](https://github.com/mmagallanes/5620Projects/blob/main/images/tribute2_5.png) |
